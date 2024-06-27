@@ -43,3 +43,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithwitcher&show_icons=true&locale=en" alt="codewithwitcher" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithwitcher&" alt="codewithwitcher" /></p>
+
+<p>I've just completed a front-end coding challenge from @frontendmentor! 🎉
+
+You can see my solution here:-
+
+https://www.frontendmentor.io/solutions/responsive-pages-on-each-device-with-localstorage-dark-mode-applicable-hr-otww0ow
+
+Any suggestions on how I can improve are welcome!</p>
