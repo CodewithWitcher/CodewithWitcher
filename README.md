@@ -52,4 +52,4 @@ https://www.frontendmentor.io/solutions/responsive-pages-on-each-device-with-loc
 
 Any suggestions on how I can improve are welcome!</p>
 
-<p align="center"> <img src = "https://raw.githubusercontent.com/CodewithWitcher/css-protips/c0c096d47e73676426f6170bfabc85510b7f688a/assets/img/bulb.svg" alt="codewithwitcher" /> </p>
+<p align="center"> <img src = "https://raw.githubusercontent.com/sammorozov/sammorozov/20741d9e8a8a588fab2a072ba91afae0ac13421f/assets/github-snake.svg" alt="codewithwitcher" /> </p>
