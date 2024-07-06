@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full Stack developer from India</h3>
 <p align="center"> <img src = "https://raw.githubusercontent.com/CodewithWitcher/css-protips/c0c096d47e73676426f6170bfabc85510b7f688a/assets/img/bulb.svg" alt="codewithwitcher" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithwitcher&label=Profile%20views&color=0e75b6&style=flat" alt="codewithwitcher" /> </p>
-
+<h3 align="center">Frontend Mentor Profile Link : https://www.frontendmentor.io/profile/CodewithWitcher</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithwitcher" alt="codewithwitcher" /></a> </p>
        <img src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Second Image">
       
@@ -43,13 +43,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithwitcher&show_icons=true&locale=en" alt="codewithwitcher" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithwitcher&" alt="codewithwitcher" /></p>
-
-<p>I've just completed a front-end coding challenge from @frontendmentor! 🎉
-
-You can see my solution here:-
-
-https://www.frontendmentor.io/solutions/responsive-pages-on-each-device-with-localstorage-dark-mode-applicable-hr-otww0ow
-
-Any suggestions on how I can improve are welcome!</p>
 
 <p align="center"> <img src = "https://raw.githubusercontent.com/sammorozov/sammorozov/20741d9e8a8a588fab2a072ba91afae0ac13421f/assets/github-snake.svg" alt="codewithwitcher" /> </p>
