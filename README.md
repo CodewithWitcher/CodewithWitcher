@@ -65,8 +65,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithwitcher&" alt="codewithwitcher" /></p>
 
-<p align="center"> <img src = "https://raw.githubusercontent.com/sammorozov/sammorozov/20741d9e8a8a588fab2a072ba91afae0ac13421f/assets/github-snake.svg" alt="codewithwitcher" /> </p>
-
 <h1> Project App Links :- </h1>
 <h3> Shop Web :- https://shop-bywitcher.netlify.app/</h3>
 <h3> Top Course :- https://top-course-bywitcher.netlify.app/</h3>
@@ -82,3 +80,6 @@
 <h3> Age Calculator :- https://age-calculator-app-bywitcher.netlify.app/</h3>
 <h3> Coming Soon Page :- https://base-apparel-coming-soon-bywitcher.netlify.app/</h3>
 <h2> Many More On Netlify...</h2>
+
+
+<p align="center"> <img src = "https://raw.githubusercontent.com/sammorozov/sammorozov/20741d9e8a8a588fab2a072ba91afae0ac13421f/assets/github-snake.svg" alt="codewithwitcher" /> </p>
