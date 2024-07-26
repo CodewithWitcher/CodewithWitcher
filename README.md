@@ -9,9 +9,9 @@
       
 - 🔭 I’m currently working on **Different type of projects**
 
-- 🌱 I’m currently learning **Node js, Python,java**
+- 🌱 I’m currently learning **Python,Apex,Lightning web Component**
 
-- 👯 I’m looking to collaborate on **Web development, front-end and back-end**
+- 👯 I’m looking to collaborate on **Web development, full-stack**
 
 - 🤝 I’m looking for help with **Back-End**
 
