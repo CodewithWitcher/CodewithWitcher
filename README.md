@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishant (Witcher)</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">A developer</h3>
 <p align="center"> <img src = "https://raw.githubusercontent.com/CodewithWitcher/css-protips/c0c096d47e73676426f6170bfabc85510b7f688a/assets/img/bulb.svg" alt="codewithwitcher" /> </p>
 <h1></h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithwitcher" alt="codewithwitcher" /></a> </p>
