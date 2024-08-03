@@ -60,6 +60,7 @@
 <h3>https://www.frontendmentor.io/profile/CodewithWitcher</h3>
 <h1></h1>
 <h1> Project App Links :- </h1>
+<h3>ComPlete Ed. Tech Project Full Stack :- https://ed-tech-study-bywitcher.netlify.app/</h3>
 <h3> Shop Web :- https://shop-bywitcher.netlify.app/</h3>
 <h3> Top Course :- https://top-course-bywitcher.netlify.app/</h3>
 <h3> Testimonial :- https://testimonial-bywitcher.netlify.app/</h3>
