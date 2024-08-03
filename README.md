@@ -73,6 +73,7 @@
 <h3> Focus On Today :- https://focusontodaybywitcher.netlify.app/</h3>
 <h3> Age Calculator :- https://age-calculator-app-bywitcher.netlify.app/</h3>
 <h3> Coming Soon Page :- https://base-apparel-coming-soon-bywitcher.netlify.app/</h3>
+<h3>News Homepage :- https://news-homepage-bywitcher.netlify.app/</h3>
 <h2> Many More On Netlify...</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithwitcher&show_icons=true&locale=en&layout=compact" alt="codewithwitcher" /></p>
