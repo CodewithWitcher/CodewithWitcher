@@ -4,7 +4,7 @@
 <h1></h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithwitcher" alt="codewithwitcher" /></a> </p>
 <h1></h1>
- <img src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Second Image">
+ <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" alt="----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------">
  
 - 🌱 I’m currently learning **Python,Apex,Lightning web Component**
 
