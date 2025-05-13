@@ -139,6 +139,7 @@
 <h3>https://www.frontendmentor.io/profile/CodewithWitcher</h3>
 <h1></h1>
 <h1> Project App Links :- </h1>
+<h3> Complete Waste Management FullStack Project :- (Coming Soon )</h3>
 <h3>Complete Ed. Tech Project FullStack :- https://ed-tech-study-bywitcher.netlify.app/</h3>
 <h3>Qr Code generator (js) :- https://qrcodebywitcher.netlify.app/</h3>
 <h3>Qr code generate and store (Python) ;- https://qrgenerator-sage.vercel.app/</h3>
