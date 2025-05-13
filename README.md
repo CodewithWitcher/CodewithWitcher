@@ -142,6 +142,7 @@
 <h3>Complete Ed. Tech Project FullStack :- https://ed-tech-study-bywitcher.netlify.app/</h3>
 <h3>Qr Code generator (js) :- https://qrcodebywitcher.netlify.app/</h3>
 <h3>Qr code generate and store (Python) ;- https://qrgenerator-sage.vercel.app/</h3>
+<h3> Phoenix Club Demo :- https://phoenixclubniu.netlify.app/</h3>
 <h3> Shop Web :- https://shop-bywitcher.netlify.app/</h3>
 <h3> Top Course :- https://top-course-bywitcher.netlify.app/</h3>
 <h3> Testimonial :- https://testimonial-bywitcher.netlify.app/</h3>
