@@ -163,6 +163,12 @@
 <h3> Netflix Clone :- https://testmmmmmmwitcher.netlify.app/</h3>
 <h2> Many More On Netlify...</h2>
 
+<h1> Prototype App Links :- </h1>
+<h3>Custom Tip Calculator:- https://tipcalculatorbywitcher.netlify.app/</h3>
+<h3> food recipe maker AI :- https://khanakhajanachef.netlify.app/</h3>
+<h3>Expense tracker:- https://biztracker.netlify.app/dashboard</h3>
+<h3>PDF Editor:- https://pdfeditnow.netlify.app/</h3>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithwitcher&show_icons=true&locale=en&layout=compact" alt="codewithwitcher" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=codewithwitcher&show_icons=true&locale=en" alt="codewithwitcher" /></p>
