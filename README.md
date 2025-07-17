@@ -110,8 +110,10 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
 </a>
 
-<a href="https://render.com" target="_blank" rel="noreferrer" aria-label="Render">
-  
+<a href="https://render.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/CodewithWitcher/CodewithWitcher/main/Render%20logomark%20-%20Black.svg" alt="Render" width="40" height="40"/>
+</a>
+
 
 
 <h2 align="left">Software:</h2>
