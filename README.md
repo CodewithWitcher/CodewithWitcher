@@ -103,7 +103,7 @@
 <h2 align="left">Backend as a Service(BaaS)</h2>
  <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a> <p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 
 <h2 align="left">Software:</h2>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
