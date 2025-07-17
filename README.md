@@ -112,6 +112,7 @@
 
 <a href="https://render.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/CodewithWitcher/CodewithWitcher/main/Render%20logomark%20-%20Black.svg" alt="Render" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/CodewithWitcher/CodewithWitcher/main/Render%20logomark%20-%20White.svg" alt="Render" width="40" height="40"/>
 </a>
 
 
