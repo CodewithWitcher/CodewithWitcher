@@ -153,6 +153,7 @@
 <h1> Project App Links :- </h1>
 <h3> Complete Waste Management FullStack Project :- https://wastemanagementbywitcher.netlify.app/ </h3>
 <h3>Complete Ed. Tech Project FullStack :- https://ed-tech-study-bywitcher.netlify.app/</h3>
+<h3>Qr Data Extractor Python Project :- https://fileconverter-pdf-to-excel.vercel.app/</h3>
 <h3>Qr Code generator (js) :- https://qrcodebywitcher.netlify.app/</h3>
 <h3>Qr code generate and store (Python) ;- https://qrgenerator-sage.vercel.app/</h3>
 <h3> Phoenix Club Demo :- https://phoenixclubniu.netlify.app/</h3>
