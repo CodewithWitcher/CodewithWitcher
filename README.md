@@ -155,7 +155,7 @@
 <h2> Full Stack Projects :- </h2>
 <h3> Complete Waste Management FullStack Project :- https://wastemanagementbywitcher.netlify.app/ </h3>
 <h3>Complete Ed. Tech Project FullStack :- https://ed-tech-study-bywitcher.netlify.app/</h3>
-<h3>Qr Data Extractor Python Project :- https://fileconverter-pdf-to-excel.vercel.app/</h3>
+<h3>Data Extractor Pdf to excel Python Project :- https://fileconverter-pdf-to-excel.vercel.app/</h3>
 <h3>Qr Code generator (js) :- https://qrcodebywitcher.netlify.app/</h3>
 <h3>Advance Expense tracker :- https://advance-expense-tracker-pied.vercel.app/login</h3>
 <h1></h1>
