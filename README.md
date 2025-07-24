@@ -179,10 +179,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=codewithwitcher&show_icons=true&locale=en" alt="codewithwitcher" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithwitcher&theme=tokyonight" alt="codewithwitcher" />
-</p>
-
 ---
 
 ## 📬 Connect With Me
