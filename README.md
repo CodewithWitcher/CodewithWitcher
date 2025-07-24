@@ -101,6 +101,98 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-Witcher%20Vishant-red?style=for-the-badge&logo=github" alt="Developer Badge"/>
+  <img src="https://img.shields.io/badge/Tech%20Stack-FullStack-blue?style=for-the-badge&logo=vercel" alt="Tech Stack Badge"/>
+  <img src="https://img.shields.io/badge/Deployed%20On-Netlify-brightgreen?style=for-the-badge&logo=netlify" alt="Netlify Badge"/>
+  <img src="https://img.shields.io/badge/Deployed%20On-Vercel-black?style=for-the-badge&logo=vercel" alt="Vercel Badge"/>
+</p>
+
+---
+
+# 🚀 My Projects Portfolio
+
+## 🌐 Frontend Mentor Profile
+[![Frontend Mentor](https://img.shields.io/badge/Visit%20My%20Profile-FF6F61?style=for-the-badge&logo=frontendmentor)](https://www.frontendmentor.io/profile/CodewithWitcher)
+
+---
+
+## 🏗 Full Stack Projects
+1. [**Complete Waste Management Project**](https://wastemanagementbywitcher.netlify.app/)  
+2. [**Complete Ed-Tech Project**](https://ed-tech-study-bywitcher.netlify.app/)  
+3. [**Advanced Expense Tracker**](https://advance-expense-tracker-pied.vercel.app/login)
+
+---
+
+## 📄 PDF Tools
+1. [**Data Extractor (PDF → Excel)**](https://fileconverter-pdf-to-excel.vercel.app/)  
+2. [**PDF Password Remover**](https://password-remover.vercel.app/)  
+3. [**PDF Editor**](https://pdfeditnow.netlify.app/)
+
+---
+
+## 🔳 QR Code Generators
+1. [**QR Code Generator (JS)**](https://qrcodebywitcher.netlify.app/)  
+2. [**QR Code Generate & Store (Python)**](https://qrgenerator-sage.vercel.app/)
+
+---
+
+## 🎨 Frontend & Normal Projects
+1. [**Phoenix Club Demo**](https://phoenixclubniu.netlify.app/)  
+2. [**Shop Web**](https://shop-bywitcher.netlify.app/)  
+3. [**Top Course**](https://top-course-bywitcher.netlify.app/)  
+4. [**Testimonial Section**](https://testimonial-bywitcher.netlify.app/)  
+5. [**Tourism Plan**](https://tourism-plan-bywitcher.netlify.app/)  
+6. [**Counter App**](https://counter-bywitcher.netlify.app/)  
+7. [**Profile Card Component**](https://profile-card-component-bywitcher.netlify.app/)  
+8. [**Four Card Feature Section**](https://four-card-feature-section-bywitcher.netlify.app/)  
+9. [**Newsletter Sign-Up**](https://newsletter-sign-up-bywitcher.netlify.app/)  
+10. [**Clipboard Landing Page**](https://clipboard-landing-page-bywitcher.netlify.app/)  
+11. [**Countries Details**](https://countriesdetailsbywitcher.netlify.app/)  
+12. [**Focus On Today**](https://focusontodaybywitcher.netlify.app/)  
+13. [**Age Calculator**](https://age-calculator-app-bywitcher.netlify.app/)  
+14. [**Coming Soon Page**](https://base-apparel-coming-soon-bywitcher.netlify.app/)  
+15. [**News Homepage**](https://news-homepage-bywitcher.netlify.app/)  
+16. [**Intro Component with Signup Page**](https://intro-component-with-signup-bywitcher.netlify.app/)  
+17. [**Foodie Hamburger Menu**](https://hamburgerbywitcher.netlify.app/)
+
+---
+
+## 🎭 Clone Websites
+1. [**Netflix Clone**](https://testmmmmmmwitcher.netlify.app/)
+
+---
+
+## 🧪 Prototype App Links
+1. [**Custom Tip Calculator**](https://tipcalculatorbywitcher.netlify.app/)  
+2. [**Food Recipe Maker AI**](https://khanakhajanachef.netlify.app/)  
+3. [**Expense Tracker**](https://biztracker.netlify.app/dashboard)
+
+---
+
+## 🛠 Tech Stack Used
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Backend-Flask-black?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/Database-Supabase-green?style=for-the-badge&logo=supabase"/>
+  <img src="https://img.shields.io/badge/Hosting-Netlify-brightgreen?style=for-the-badge&logo=netlify"/>
+  <img src="https://img.shields.io/badge/Hosting-Vercel-black?style=for-the-badge&logo=vercel"/>
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python"/>
+</p>
+
+---
+
+## 📬 Connect With Me
+<p align="center">
+  <a href="https://www.frontendmentor.io/profile/CodewithWitcher">
+    <img src="https://img.shields.io/badge/Frontend%20Mentor-Profile-orange?style=for-the-badge&logo=frontendmentor"/>
+  </a>
+  <a href="https://github.com/witchervishant">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithwitcher&show_icons=true&locale=en&layout=compact" alt="codewithwitcher" />
