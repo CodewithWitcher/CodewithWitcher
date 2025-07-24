@@ -157,6 +157,7 @@
 <h3>Complete Ed. Tech Project FullStack :- https://ed-tech-study-bywitcher.netlify.app/</h3>
 <h3>Data Extractor Pdf to excel Python Project :- https://fileconverter-pdf-to-excel.vercel.app/</h3>
 <h3>Qr Code generator (js) :- https://qrcodebywitcher.netlify.app/</h3>
+<h3> Pdf Password Remover :- https://password-remover.vercel.app/</h3>
 <h3>Advance Expense tracker :- https://advance-expense-tracker-pied.vercel.app/login</h3>
 <h1></h1>
 <h2> Normal Projects :- </h2>
