@@ -170,17 +170,6 @@
 
 ---
 
-## 📬 Connect With Me
-<p align="center">
-  <a href="https://www.frontendmentor.io/profile/CodewithWitcher">
-    <img src="https://img.shields.io/badge/Frontend%20Mentor-Profile-orange?style=for-the-badge&logo=frontendmentor"/>
-  </a>
-  <a href="https://github.com/witchervishant">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithwitcher&show_icons=true&locale=en&layout=compact" alt="codewithwitcher" />
@@ -212,6 +201,14 @@
   </a>
   <a href="https://www.leetcode.com/code-with-witcher">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.frontendmentor.io/profile/CodewithWitcher">
+    <img src="https://img.shields.io/badge/Frontend%20Mentor-Profile-orange?style=for-the-badge&logo=frontendmentor"/>
+  </a>
+  <a href="https://github.com/witchervishant">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
