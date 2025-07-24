@@ -170,18 +170,6 @@
 
 ---
 
-## 🛠 Tech Stack Used
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Backend-Flask-black?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/Database-Supabase-green?style=for-the-badge&logo=supabase"/>
-  <img src="https://img.shields.io/badge/Hosting-Netlify-brightgreen?style=for-the-badge&logo=netlify"/>
-  <img src="https://img.shields.io/badge/Hosting-Vercel-black?style=for-the-badge&logo=vercel"/>
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python"/>
-</p>
-
----
-
 ## 📬 Connect With Me
 <p align="center">
   <a href="https://www.frontendmentor.io/profile/CodewithWitcher">
