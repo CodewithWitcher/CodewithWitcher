@@ -109,8 +109,7 @@
 </p>
 
 ---
-
-<h2>[**Portfolio Website**](https://vishantshukla.live/) </h2>
+[**Portfolio Website**](https://vishantshukla.live/)
 
 # 🚀 My Projects Portfolio
 
