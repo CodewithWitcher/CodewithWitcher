@@ -109,7 +109,6 @@
 </p>
 
 ---
-[**Portfolio Website**](https://vishantshukla.live/)
 
 # 🚀 My Projects Portfolio
 
@@ -117,7 +116,9 @@
 [![Frontend Mentor](https://img.shields.io/badge/Visit%20My%20Profile-FF6F61?style=for-the-badge&logo=frontendmentor)](https://www.frontendmentor.io/profile/CodewithWitcher)
 
 ---
+1. [**Portfolio Website**](https://vishantshukla.live/)
 
+---
 ## 🏗 Full Stack Projects
 1. [**Complete Waste Management Project**](https://wastemanagementbywitcher.netlify.app/)  
 2. [**Complete Ed-Tech Project**](https://ed-tech-study-bywitcher.netlify.app/)  
