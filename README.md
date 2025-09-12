@@ -119,6 +119,13 @@
 1. [**Portfolio Website**](https://vishantshukla.live/)
 
 ---
+
+## Latest Open Source Project
+
+<!-- LATEST-PROJECT:START -->
+- [Linkedin Data Scrapper](https://github.com/CodewithWitcher/Linkedin-Data-Scapper)
+<!-- LATEST-PROJECT:END -->
+
 ## 🏗 Full Stack Projects
 1. [**Complete Waste Management Project**](https://wastemanagementbywitcher.netlify.app/)  
 2. [**Complete Ed-Tech Project**](https://ed-tech-study-bywitcher.netlify.app/)  
