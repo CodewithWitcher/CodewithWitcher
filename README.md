@@ -135,7 +135,7 @@
 6. [**College Project**](https://worktoday-gamma.vercel.app/)
 
 ---
-## 📄 PDF Tools
+## 📄 Tools
 1. [**API KEY Tester**](https://api-key-tester-one.vercel.app/)  
 
 ## 📄 PDF Tools
