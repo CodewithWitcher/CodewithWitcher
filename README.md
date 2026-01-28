@@ -182,6 +182,12 @@
 
 ---
 
+## Personal Use Case
+1. [**Watermark Remover**](https://watermark-remover-c3ok.onrender.com/)
+2. **Bug Tracker** (Can,t Show right Now It,s Added on a peoject)
+
+---
+
 ## 🧪 Prototype App Links
 1. [**Custom Tip Calculator**](https://tipcalculatorbywitcher.netlify.app/)  
 2. [**Food Recipe Maker AI**](https://khanakhajanachef.netlify.app/)  
