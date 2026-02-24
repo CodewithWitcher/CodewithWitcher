@@ -175,6 +175,7 @@
 15. [**News Homepage**](https://news-homepage-bywitcher.netlify.app/)  
 16. [**Intro Component with Signup Page**](https://intro-component-with-signup-bywitcher.netlify.app/)  
 17. [**Foodie Hamburger Menu**](https://hamburgerbywitcher.netlify.app/)
+18. [**Confession Pill**](https://confessionpageui.vercel.app/)  
 
 ---
 
